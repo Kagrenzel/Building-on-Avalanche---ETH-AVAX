@@ -1,4 +1,4 @@
-# ERC20 Implementation Program
+# ERC20 DEGEN TOKEN IMPLEMENTATION
 
 This Solidity smart contract basically implements the ERC20 standards with a functioning token that will be deployed on the snowtrace network, its main
 functions are, transfer, burn, and allows users to redeem swords for a hundred tokens while the minting function is exclusive to the contract owner.
